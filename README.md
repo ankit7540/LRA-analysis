@@ -20,3 +20,10 @@ Low-rank approximation (LRA) (also known as SVD denoising) is widely used in sig
 
 An objective filter for rank cutoff is used for retaining all spectral information.
 
+-----
+
+#### Discussed in :
+
+["Posthandling Spectral Information Enhancement for Single Cell Raman Molecular Mapping Analysis" ](https://pubs.acs.org/doi/10.1021/acs.analchem.5c03915).
+
+
